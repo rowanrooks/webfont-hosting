@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'baldur';
+    src: url('https://raw.githubusercontent.com/rowanrooks/webfont-hosting/blob/main/baldur/baldur-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/rowanrooks/webfont-hosting/blob/main/baldur/baldur-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
